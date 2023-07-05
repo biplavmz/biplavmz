@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Biplav Mazumdar</h1>
-<h1 align="center">If you want to hire me please drop a mail Biplavmazumdar5@gmail.com</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=biplavmz&label=Profile%20views&color=0e75b6&style=flat" alt="biplavmz" /> </p>
