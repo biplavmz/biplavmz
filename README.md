@@ -6,6 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=biplavmz" alt="biplavmz" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/@bb5ae43dc9f74df" target="blank"><img src="https://img.shields.io/twitter/follow/@bb5ae43dc9f74df?logo=twitter&style=for-the-badge" alt="@bb5ae43dc9f74df" /></a> </p>
+[![biplavmz's GitHub | Stats](https://stats.quine.sh/biplavmz/github?theme=light)](https://quine.sh?utm_source=widgets&utm_campaign=biplavmz)
 
 - 🔭 I’m currently working on **Netflix Clone**
 
